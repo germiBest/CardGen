@@ -4,7 +4,7 @@
  ```console
  pip install -r requirements.txt
  ```
-#Usage
+# Usage
  ```console
- python cardgen.python
+ python cardgen.py
  ```
